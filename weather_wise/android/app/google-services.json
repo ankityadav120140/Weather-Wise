@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072195082398",
+    "project_id": "weather-wise-b0842",
+    "storage_bucket": "weather-wise-b0842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072195082398:android:0eb0f03046a1219944838f",
+        "android_client_info": {
+          "package_name": "com.example.weather_wise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072195082398-sd04g8ab7v3udvc7c4snh2b65ustiaqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weather_wise",
+            "certificate_hash": "e9edfa2bf72ad44a4edb304cbc90b33bd7d63dec"
+          }
+        },
+        {
+          "client_id": "1072195082398-vs6bb7md5e7hrje2ie9ongfja26oa636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRV9bZ7xU99Lw-5vagHWzBXptga2t-FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072195082398-vs6bb7md5e7hrje2ie9ongfja26oa636.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
